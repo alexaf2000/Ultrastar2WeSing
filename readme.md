@@ -1,5 +1,5 @@
-# Ultrastar2WeSing Converter
-This is the first tool provided to convert Ultrastar old songs format to the new format used by WeSing.
+# WeSing Studio
+This is the first tool provided to create WeSing songs, download youtube videos/song, create miniature images, convert Ultrastar old songs format to the new format used by WeSing.
 
 This new format is easier to read and to modify, allows a lot of new features, improvements and a faster processing step.
 
